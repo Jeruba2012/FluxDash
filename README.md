@@ -24,13 +24,6 @@ FluxDash was inspired and created by Ife Familusi, Research Associate, Kentucky 
 
 ## Requirements
 
-### Required for building the app
-
-1. Install Node.js LTS from https://nodejs.org.
-2. Extract this folder.
-3. Double-click `build.bat`.
-
-The first build downloads Electron, Chart.js, and build dependencies through npm.
 
 ### Required for the Process tab
 
@@ -42,22 +35,6 @@ EddyPro is optional. Use it only from the Process tab's engine selector if you s
 
 The Partition tab requires R and the R package `REddyProc`. Use the **Setup R** button in the app, or install R manually and then allow FluxDash to install/check `REddyProc`.
 
-## Build
-
-Run:
-
-```bat
-build.bat
-```
-
-or manually:
-
-```bat
-npm install
-npm run check
-npm start
-npm run build
-```
 
 The Windows installer will be created in:
 
