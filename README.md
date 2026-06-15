@@ -36,12 +36,6 @@ EddyPro is optional. Use it only from the Process tab's engine selector if you s
 The Partition tab requires R and the R package `REddyProc`. Use the **Setup R** button in the app, or install R manually and then allow FluxDash to install/check `REddyProc`.
 
 
-The Windows installer will be created in:
-
-```text
-dist\FluxDash Setup 1.0.0.exe
-```
-
 ## Recommended student workflow
 
 1. Install Python 3 and R.
