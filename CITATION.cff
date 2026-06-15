@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use FluxDash in teaching, research, or a publication, please cite it as follows."
+title: "FluxDash"
+type: software
+version: "1.0.0"
+date-released: "2026-06-15"
+authors:
+
+* family-names: "Familusi"
+  given-names: "Ife"
+  affiliation: "Kentucky State University"
+  email: "[ife.familusi@kysu.edu](mailto:ife.familusi@kysu.edu)"
+  repository-code: "https://github.com/Jeruba2012/FluxDash"
+  url: "https://github.com/Jeruba2012/FluxDash/releases/latest"
+  license: "Proprietary"
+  abstract: "FluxDash is a teaching-focused Windows desktop platform for processing, quality control, gap-filling, partitioning, analyzing, and visualizing eddy covariance flux datasets."
+  keywords:
+* eddy covariance
+* micrometeorology
+* carbon exchange
+* flux data
+* FLUXNET
+* AmeriFlux
+* REddyProc
+* environmental science

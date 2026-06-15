@@ -1,0 +1,19 @@
+FLUXDASH SOFTWARE TERMS OF USE
+
+Copyright © 2026 Ife Familusi. All rights reserved.
+
+FluxDash is distributed as compiled software for educational, research, and noncommercial professional use.
+
+The application source code is proprietary and is not included in this repository. Users may not modify, reverse-engineer, decompile, repackage, sublicense, sell, or redistribute FluxDash without prior written authorization from the copyright holder.
+
+FluxDash is intended to support teaching, exploratory analysis, environmental research, and eddy covariance workflow documentation. Users are responsible for reviewing all input data, processing choices, quality-control thresholds, units, sign conventions, assumptions, analytical outputs, and resulting interpretations.
+
+The software is provided without warranties of any kind. The author and associated institutions are not responsible for research, management, financial, regulatory, or other decisions made using FluxDash.
+
+Author and creator:
+
+Ife Familusi
+Research Associate
+Kentucky State University
+Frankfort, Kentucky, USA
+Email: [ife.familusi@kysu.edu](mailto:ife.familusi@kysu.edu)
