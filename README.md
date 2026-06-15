@@ -4,7 +4,7 @@ FluxDash is a Windows Electron desktop app designed for students and early-caree
 
 ## Author and creator
 
-FluxDash was inspired and created by Ife Familusi, Research Associate, Kentucky State University. Contact: ife.familsui@kysu.edu. All rights reserved.
+FluxDash was inspired and created by Ife Familusi, Research Associate, Kentucky State University. Contact: ife.familusi@kysu.edu. All rights reserved.
 
 ## Main features in v1.0.0
 
