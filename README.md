@@ -76,6 +76,7 @@ The complete software documentation is available here:
 ## Related publications by the software creator
 
 Familusi, I., Gebremedhin, M., Gyawali, B., Chiluwal, A., & Brotzge, J. (2025). A deciduous forest's CO2 exchange within the mixed-humid climate of Kentucky, USA. *Forests, 16*(4), 562. https://doi.org/10.3390/f16040562
+
 Familusi, I., Gebremedhin, M., Ries, I., Brown, J., & Gyawali, B. (2024). The productivity and carbon exchange of an intensively managed pasture in Central Kentucky. *Atmosphere, 15*(3), 348. https://doi.org/10.3390/atmos15030348
 
 ## Suggested citation
